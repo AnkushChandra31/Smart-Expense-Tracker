@@ -32,7 +32,7 @@ while True:
         export_to_csv()
 
     elif choice == "6":
-        print("\n👋 Thanks for using Smart Expense Tracker. Goodbye!\n")
+        print("\nThanks for using Smart Expense Tracker. Goodbye!\n")
         break                  
     else:
-        print("❌ Invalid choice. Please enter a number between 1 and 5.")
+        print("Invalid choice. Please enter a number between 1 and 5.")
