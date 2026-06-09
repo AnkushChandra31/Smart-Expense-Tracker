@@ -30,6 +30,11 @@ SmartExpenseTracker/
 └── expenses.db
 ```
 
+## GUI Preview
+
+![GUI](Screenshots/gui.png)
+
+
 ## How to Run
 
 1. Clone the repository
